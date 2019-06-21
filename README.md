@@ -1,5 +1,5 @@
 # PleaseClap
-A CLI, single file applet for clapping for you on Medium blogs.
+A Command Line Interface, single file applet for clapping for you on Medium blogs.
 
 This is a single file command line applet that will take your user data and clap for you 50 times on any Medium posts you input. 
 
