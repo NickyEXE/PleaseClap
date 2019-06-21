@@ -7,3 +7,6 @@ It was built so my students could support each other's blogs while seeing a demo
 
 I originally had this code just have them enter their variables in a cloned copy of the code but decided to have fun and make it a CLI app, because that's what the students are learning to build right now.
 
+It requires Ruby and three of Ruby's default gems: 'uri', 'net/http', 'json', and the user data requires you to make use of the Chrome Dev Tools.
+
+For more details, check out the code's comments.
